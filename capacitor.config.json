@@ -1,0 +1,11 @@
+{
+  "appId": "com.testcapacitor.app",
+  "appName": "TestCapacitor",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
