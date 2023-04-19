@@ -79,7 +79,7 @@ window.customElements.define(
 				</style>
 				<div>
 					<capacitor-welcome-titlebar>
-						<h1>ERPLibre XML-RPC</h1>
+						<h1>ERPLibre REST</h1>
 					</capacitor-welcome-titlebar>
 					<main>
 						<aliment-list></aliment-list>
